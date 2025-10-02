@@ -1,4 +1,4 @@
-#Azyan Syazwani Binti Setia(215014)
+#Azyan Syazwani 
 
 import pygame
 import os
