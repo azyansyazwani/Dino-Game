@@ -1,4 +1,4 @@
-#Azyan Syazwani 
+#Author: Azyan 
 
 import pygame
 import os
